@@ -1,0 +1,8 @@
+[date_valeur]
+03/02/2017
+[bateaux_XXX]
+code_bateau;code_embarcation&sexe;valeur
+
+1er champs : code_embarcation&sexe&num_licence1&num_licenceX
+2ème champs : code_embarcation&sexe
+3ème champs : CCCC.CC
