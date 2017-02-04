@@ -1,4 +1,4 @@
-# Compet'FFCKcompet-ffck
+# Compet'FFCK
 
 Resources autour du logiciel Compet'FFCK
 
