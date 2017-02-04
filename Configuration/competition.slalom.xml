@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Arborescence pour la Navigation des Compétitions competFFCK -->
+<list_item>
+<item name ="Base Locale" image="./res/24x24_database.png" db="native">
+	<item name ="SAISON 2017" image="./res/24x24_database.png" saison="2017">
+		<item name="Slalom" image="./res/SLA_16x16.png" activite="SLA"/>
+	</item>
+	<item name ="SAISON 2016" image="./res/24x24_database.png" saison="2016">
+		<item name="Slalom" image="./res/SLA_16x16.png" activite="SLA"/>
+	</item>
+</item>
+
+<!-- etat_competition = , uniquement compétition !-->
+<!-- type_inscription =  , uniquement compétition!-->
+<!-- activite= "NAT" !-->
+<!-- niveau= "NAT" !-->
+<!-- saison= "2016" !-->
+<!-- niveau= "NAT" !-->
+<!-- saison= "2016" !-->
+<!-- niveau= "NAT" !-->
+<!-- saison= "2016" !-->
+<!-- niveau= "NAT" !-->
+<!-- saison= "2016" !-->
+
+
+<item name ="Cloud F.F.C.K." image="./res/24x24_cloud_blue.png" db="cloud" >
+	<item name ="SAISON 2017" image="./res/24x24_cloud_blue.png" saison="2017">
+		<item name="Slalom" image="./res/SLA_16x16.png" activite="SLA">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1"></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2"></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3"></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4"></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5"></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6"></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7"></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8"></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+</item>
+  <item name ="SAISON 2016" image="./res/24x24_cloud_blue.png" saison="2016">
+		<item name="Slalom" image="./res/SLA_16x16.png" activite="SLA">
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6"></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7"></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8"></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+	</item>
+</item>
+</list_item>
+
+

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Arborescence pour la Navigation des Compétitions competFFCK -->
+<list_item>
+<item name ="Base Locale" image="./res/24x24_database.png" db="native">
+	<item name ="SAISON 2017" image="./res/24x24_database.png" saison="2017">
+		<item name="Toutes les activités" image="./res/32x32_ffck.png"/>
+		<item name="Course en Ligne" image="./res/CELMARPARA_16x16.png" activite="CEL"/>
+		<item name="Slalom" image="./res/SLA_16x16.png" activite="SLA"/>
+		<item name="Descente" image="./res/DES_16x16.png" activite="DES"/>
+		<item name="Marathon" image="./res/CELMARPARA_16x16.png" activite="MAR"/>
+		<item name="Ocean Racing" image="./res/OCR_16x16.png" activite="OCR"/>
+		<item name="Va'a Vitesse" image="./res/VAA_16x16.png" activite="VAV"/>
+		<item name="Freestyle" image="./res/FRE_16x16.png" activite="FRE"/>
+		<item name="Waveski Surfing" image="./res/WAS_16x16.png" activite="WAS"/>
+		<item name="Dragon Boat" image="./res/DRB_16x16.png" activite="DRB"/>
+	</item>
+	<item name ="SAISON 2016" image="./res/24x24_database.png" saison="2016">
+		<item name="Toutes les activités" image="./res/32x32_ffck.png"/>
+		<item name="Course en Ligne" image="./res/CELMARPARA_16x16.png" activite="CEL"/>
+		<item name="Slalom" image="./res/SLA_16x16.png" activite="SLA"/>
+		<item name="Descente" image="./res/DES_16x16.png" activite="DES"/>
+		<item name="Marathon" image="./res/CELMARPARA_16x16.png" activite="MAR"/>
+		<item name="Ocean Racing" image="./res/OCR_16x16.png" activite="OCR"/>
+		<item name="Va'a Vitesse" image="./res/VAA_16x16.png" activite="VAV"/>
+		<item name="Freestyle" image="./res/FRE_16x16.png" activite="FRE"/>
+		<item name="Waveski Surfing" image="./res/WAS_16x16.png" activite="WAS"/>
+		<item name="Dragon Boat" image="./res/DRB_16x16.png" activite="DRB"/>
+	</item>
+</item>
+
+<!-- etat_competition = , uniquement compétition !-->
+<!-- type_inscription =  , uniquement compétition!-->
+<!-- activite= "NAT" !-->
+<!-- niveau= "NAT" !-->
+<!-- saison= "2016" !-->
+<!-- niveau= "NAT" !-->
+<!-- saison= "2016" !-->
+<!-- niveau= "NAT" !-->
+<!-- saison= "2016" !-->
+<!-- niveau= "NAT" !-->
+<!-- saison= "2016" !-->
+
+
+<item name ="Cloud F.F.C.K." image="./res/24x24_cloud_blue.png" db="cloud" >
+	<item name ="SAISON 2017" image="./res/24x24_cloud_blue.png" saison="2017">
+		<item name="Course en Ligne" image="./res/CELMARPARA_16x16.png" activite="CEL" >
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1"/>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2"/>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3"/>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4"/>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5"/>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6"/>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7"/>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8"/>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Slalom" image="./res/SLA_16x16.png" activite="SLA">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1"></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2"></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3"></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4"></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5"></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6"></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7"></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8"></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Descente" image="./res/DES_16x16.png" activite="DES">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Marathon" image="./res/CELMARPARA_16x16.png" activite="MAR">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Ocean Racing" image="./res/OCR_16x16.png" activite="OCR">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Va'a" image="./res/VAA_16x16.png" activite="VAV">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Freestyle" image="./res/FRE_16x16.png" activite="FRE">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Waveski Surfing" image="./res/WAS_16x16.png" activite="WAS">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Dragon Boat" image="./res/DRB_16x16.png" activite="DRB">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+</item>
+	<item name ="SAISON 2016" image="./res/24x24_cloud_blue.png" saison="2016">
+		<item name="Course en Ligne" image="./res/CELMARPARA_16x16.png" activite="CEL" >
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1"/>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2"/>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3"/>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4"/>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5"/>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6"/>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7"/>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8"/>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Slalom" image="./res/SLA_16x16.png" activite="SLA">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1"></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2"></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3"></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4"></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5"></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6"></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7"></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8"></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Descente" image="./res/DES_16x16.png" activite="DES">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Marathon" image="./res/CELMARPARA_16x16.png" activite="MAR">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Ocean Racing" image="./res/OCR_16x16.png" activite="OCR">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Va'a" image="./res/VAA_16x16.png" activite="VAV">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Freestyle" image="./res/FRE_16x16.png" activite="FRE">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Waveski Surfing" image="./res/WAS_16x16.png" activite="WAS">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+		<item name="Dragon Boat" image="./res/DRB_16x16.png" activite="DRB">
+			<item name="Programmée" image="./res/16x16_etat_inscription_1.png" etat_competition="1" ></item>
+			<item name="Inscription en cours" image="./res/16x16_etat_inscription_2.png" etat_competition="2" ></item>
+			<item name="Confirmation en cours" image="./res/16x16_etat_inscription_3.png" etat_competition="3" ></item>
+			<item name="Cloturée (inscriptions)" image="./res/16x16_etat_inscription_4.png" etat_competition="4" ></item>
+			<item name="En direct" image="./res/16x16_etat_inscription_5.png" etat_competition="5" ></item>
+			<item name="Terminée" image="./res/16x16_etat_inscription_6.png" etat_competition="6" ></item>
+			<item name="paiement en cours" image="./res/16x16_etat_inscription_7.png" etat_competition="7" ></item>
+			<item name="Paiement effectué" image="./res/16x16_etat_inscription_8.png" etat_competition="8" ></item>
+			<item name ="Listes de Référence actives" image="./res/16x16_list.png" etat_competition="9"></item>
+			<item name ="Listes de Référence archivées" image="./res/16x16_list.png" etat_competition="10"></item>
+		</item>
+	</item>
+</item>
+</list_item>
+
+
